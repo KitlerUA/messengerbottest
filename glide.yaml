@@ -1,0 +1,4 @@
+package: github.com/KitlerUA/messengerbottest
+import:
+- package: github.com/gorilla/mux
+- package: github.com/abhinavdahiya/go-messenger-bot
